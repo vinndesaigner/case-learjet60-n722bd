@@ -30,3 +30,13 @@ This repository applies DFIR (Digital Forensics and Incident Response) principle
 
 ## 🔗 Read the Full Report
 Navigate to [`04_reports/README.md`](04_reports/README.md) to read the detailed breakdown of the factual report, analysis, and limitations.
+
+## 📊 Executive Summary
+This independent OSINT investigation reconstructed the final 70 seconds of Learjet 60 (N722BD) before its crash in Greenacres, FL, on November 1, 2026. By correlating publicly available ADS-B telemetry, ATC audio recordings, and visual geolocation, the data reveals a catastrophic, near-vertical dive:
+
+- **Max Altitude:** 35,000 ft
+- **Peak Descent Rate:** -29,149 ft/min (far exceeding the pilot's reported 10,000 fpm)
+- **Max Groundspeed:** 486 knots (Severe overspeed condition)
+- **Time to Impact:** < 70 seconds
+
+Visual verification via public dashcam footage (cross-referenced with Google Street View) confirms the aircraft fell vertically into the residential area, corroborating the spatial trajectory mapped in this repository.
