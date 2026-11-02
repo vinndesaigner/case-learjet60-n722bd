@@ -1,0 +1,8 @@
+timestamp_utc,event_type,description,source_evidence_id,confidence
+2026-11-01T17:48:00Z,ADS-B,Max Altitude 35,000 ft reached. Level flight.,EVID-01,High
+2026-11-01T17:48:15Z,ATC, Pilot requests higher altitude due to light clear ice.,EVID-03,High
+2026-11-01T17:48:30Z,ADS-B, Aircraft begins sudden descent. Vertical rate drops rapidly.,EVID-01,High
+2026-11-01T17:49:00Z,ATC,"Pilot reports: 'Mayday, descending 10,000 ft per minute'.",EVID-03,High
+2026-11-01T17:49:10Z,ADS-B, Max Groundspeed 486 knots (Overspeed).,EVID-01,High
+2026-11-01T17:49:15Z,ATC,"Final transmission: 'We're out of time'.",EVID-03,High
+2026-11-01T17:49:20Z,ADS-B, Impact with terrain. Altitude 0 ft.,EVID-02,High
