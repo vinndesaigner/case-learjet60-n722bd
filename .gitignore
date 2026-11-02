@@ -1,0 +1,5 @@
+.env
+02_working/
+05_hashes/
+__pycache__/
+*.pyc
